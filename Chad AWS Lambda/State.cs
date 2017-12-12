@@ -10,6 +10,7 @@ namespace Chad AWS Lambda
     public class State
     {
         /// <summary>
+        /// test
         /// Input value when starting the execution
         /// </summary>
         public string Name { get; set; }
