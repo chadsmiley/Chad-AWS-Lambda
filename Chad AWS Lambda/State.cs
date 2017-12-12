@@ -5,13 +5,11 @@ using System.Text;
 namespace Chad AWS Lambda
 {
     /// <summary>
-    /// tester
     /// The state passed between the step function executions.
     /// </summary>
     public class State
     {
         /// <summary>
-        /// testing
         /// Input value when starting the execution
         /// </summary>
         public string Name { get; set; }
