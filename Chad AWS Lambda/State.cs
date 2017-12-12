@@ -5,7 +5,6 @@ using System.Text;
 namespace Chad AWS Lambda
 {
     /// <summary>
-    /// test
     /// The state passed between the step function executions.
     /// </summary>
     public class State
